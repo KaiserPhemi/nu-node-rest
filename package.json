@@ -1,0 +1,15 @@
+{
+  "name": "nu-node-rest",
+  "version": "1.0.0",
+  "description": "just a restful api",
+  "main": "index.js",
+  "author": "KaiserPhemi <oluwafemi.akinwa@andela.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  }
+}
